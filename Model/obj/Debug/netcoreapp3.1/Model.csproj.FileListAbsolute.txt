@@ -1,0 +1,9 @@
+C:\Users\Dawood Shaikh\source\repos\WebAPI\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\Dawood Shaikh\source\repos\WebAPI\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Dawood Shaikh\source\repos\WebAPI\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Dawood Shaikh\source\repos\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\Users\Dawood Shaikh\source\repos\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\Dawood Shaikh\source\repos\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\Dawood Shaikh\source\repos\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\Dawood Shaikh\source\repos\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\Dawood Shaikh\source\repos\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.pdb
