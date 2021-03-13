@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rx46A/6a7AosWcKllRn5REyuUBfxbKXlKljW9aZtZs1vJVU11cnmuHKqO7OmxzMtRP3wHzWbJe9x6RjcwJwJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dawood Shaikh\\source\\repos\\WebAPI\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dawood Shaikh\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
