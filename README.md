@@ -1,5 +1,5 @@
 # WebApi
-TODO: This is Web Api project using Asp.net Core.this project has functionality to process payment from hird party API.
+TODO: This is Web Api project using Asp.net Core.this project has functionality to process payment from third party API.
 ## Installation
 TODO: need to restore packages if unable download uploaded packages and Database migration needed.
 ## Usage
